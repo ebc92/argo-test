@@ -1,4 +1,4 @@
 
 namespace: dev-testsenter
-project: testsenter
+project: default
 version: "1234"
