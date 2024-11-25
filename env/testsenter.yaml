@@ -1,0 +1,4 @@
+- namespace: testsenter-dev
+  cluster: in-cluster
+- namespace: testsenter-prod
+  cluster: in-cluster
